@@ -46,11 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ChangeImg.cs" />
      <Compile Include="Assets\README.cs" />
      <Compile Include="Assets\Scripts\AutoDestroy.cs" />
      <Compile Include="Assets\Scripts\CardController.cs" />
-     <Compile Include="Assets\Scripts\cardAnimation.cs" />
+     <Compile Include="Assets\Scripts\ChangeImg.cs" />
      <Compile Include="Assets\Scripts\cardGenerator.cs" />
      <Compile Include="Assets\Scripts\cardSelection.cs" />
      <None Include="Assets\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
